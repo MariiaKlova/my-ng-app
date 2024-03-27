@@ -1,4 +1,4 @@
-[My Project](https://mariiaklova.github.io/my-ng-app/)
+[My Project](https://mariiaklova.github.io/my-ng-app/src/index.html)
 
 
 # MyNgApp
