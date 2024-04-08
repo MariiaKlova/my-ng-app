@@ -1,3 +1,6 @@
+[My Project](https://mariiaklova.github.io/my-ng-app/src/index.html)
+
+
 # MyNgApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
